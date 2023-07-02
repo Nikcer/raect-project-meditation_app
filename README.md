@@ -2,8 +2,8 @@
 
 ## Description
 
-A Meditation web app.
-This project is part of the React course by Strt2Impact.
+This project is part of the React course by Strt2Impact. The project consists of developing a meditation application. The app includes a timer and the selection of audio tracks.
+The app is very simple, consisting of a home screen and a specific page dedicated to meditation.
 
 ### 💻 Languages
 
