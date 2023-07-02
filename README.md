@@ -1,1 +1,1 @@
-# raect-project-Mindfullness-meditation_app
+# react-project-Mindfullness-meditation_app
