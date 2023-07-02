@@ -24,6 +24,8 @@ This project is part of the React course by Strt2Impact.
 - Quotable API
 
 ## Demo
+
+https://mindfullness-meditation-app.firebaseapp.com/
  
 ## Contact Me
 
