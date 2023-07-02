@@ -1,1 +1,1 @@
-# raect-project-meditation_app
+# raect-project-Mindfullness-meditation_app
