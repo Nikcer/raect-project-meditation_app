@@ -5,13 +5,13 @@
 A Meditation web app.
 This project is part of the React course by Strt2Impact.
 
-💻 Languages
+### 💻 Languages
 
 -HTML5
 -CSS3
 -Javascript ES6
 
-📚 Libraries
+### 📚 Libraries
 React.js
 React Router
 Axios
