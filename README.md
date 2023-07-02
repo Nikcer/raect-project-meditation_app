@@ -19,6 +19,12 @@ This project is part of the React course by Strt2Impact.
 - React Countdown Circle Timer
 - React Switch
 
+## :globe_with_meridians: Other Tech
+
+- React Router
+- React Hooks
+- Context API
+
 ## External service
 
 - Quotable API
