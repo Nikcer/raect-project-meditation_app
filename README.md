@@ -7,9 +7,9 @@ This project is part of the React course by Strt2Impact.
 
 ### 💻 Languages
 
--HTML5
--CSS3
--Javascript ES6
+- HTML5
+- CSS3
+- JavaScript
 
 ### 📚 Libraries
 React.js
