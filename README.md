@@ -21,7 +21,6 @@ This project is part of the React course by Strt2Impact.
 
 ## :globe_with_meridians: Other Tech
 
-- React Router
 - React Hooks
 - Context API
 
