@@ -24,10 +24,6 @@ This project is part of the React course by Strt2Impact.
 - Quotable API
 
 ## Demo
-
-## Clone
-
-git clone https://github.com/Nikcer/raect-project-meditation_app.git
  
 ## Contact Me
 
@@ -35,4 +31,4 @@ git clone https://github.com/Nikcer/raect-project-meditation_app.git
 
 - Github: [@Nikcer](https://github.com/Nikcer)
 - Linkedin: [@Nikcer](https://www.linkedin.com/in/nicol%C3%B2-cerra-492325231/)
-- If you have any questions, contact me at: [(nic.cerra@gmail.com)]
+- If you have any questions, contact me at: nic.cerra@gmail.com
