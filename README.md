@@ -12,13 +12,23 @@ This project is part of the React course by Strt2Impact.
 - JavaScript
 
 ### 📚 Libraries
-React.js
-React Router
-Axios
-React Icons
-React Countdown Circle Timer
-React Switch
+- React.js
+- React Router
+- Axios
+- React Icons
+- React Countdown Circle Timer
+- React Switch
 
+## External service
+
+- Quotable API
+
+## Demo
+
+## Clone
+
+git clone https://github.com/Nikcer/raect-project-meditation_app.git
+ 
 ## Contact Me
 
 👤 **Nicolò Cerra**
