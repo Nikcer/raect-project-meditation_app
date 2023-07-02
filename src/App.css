@@ -1,13 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lora:ital,wght@0,500;1,400&display=swap');
+
+
+
 .App {
   text-align: center;
-}
+} 
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
+}  */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+.App-header {  
+  min-height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  font-size: calc(10px + 2vmin);  
+  font-family: 'Lora', sans-serif;
 }
 
-@media (prefers-reduced-motion: no-preference) {
+a{
+  text-decoration: none;
+}
+
+#Dark {
+  background: linear-gradient(180deg, #007bff, #000033);
+  color: white;
+}
+#Dark a{
+  color: white;
+}
+
+#Light {
+  background: linear-gradient(0deg, #007bff, #ffff00);
+  color:#0d3f67;
+}
+
+/* .list li{
+  display: flex;
+  padding-left:3px;
+  padding-right:3px;
+} */
+
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
@@ -36,3 +79,4 @@
     transform: rotate(360deg);
   }
 }
+ */

@@ -1,0 +1,18 @@
+.btn-container {
+    display: flex;
+    padding-bottom: 5%;
+    align-items: center;
+    height: 20vh;
+    width: 100vw;
+  }
+  
+  .btn {
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    background-color: #8beff8;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }

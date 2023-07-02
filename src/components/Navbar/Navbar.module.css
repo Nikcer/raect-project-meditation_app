@@ -1,0 +1,43 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    background-color: transparent;
+    
+    height: 90px;
+    width: 100%;
+  }
+
+.switchContainer {
+    display: flex;
+    justify-content:space-between;
+    
+  }
+
+  .switchContainer > span {
+    padding-right: 12px;
+  }
+
+  .reactSwitch{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .logoContainer{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+  }
+
+
+  .homeButton{
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .logoButton {
+    height: 20px;
+    width: 20px;
+  }
