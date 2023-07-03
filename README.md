@@ -2,8 +2,8 @@
 
 ## Description
 
-A Meditation web app.
-This project is part of the React course by Strt2Impact.
+This project is part of the React course by Strt2Impact. The project consists of developing a meditation application. The app includes a timer and the selection of audio tracks.
+The app is very simple, consisting of a home screen and a specific page dedicated to meditation.
 
 ### 💻 Languages
 
@@ -19,11 +19,18 @@ This project is part of the React course by Strt2Impact.
 - React Countdown Circle Timer
 - React Switch
 
+## :globe_with_meridians: Other Tech
+
+- React Hooks
+- Context API
+
 ## External service
 
 - Quotable API
 
 ## Demo
+
+https://mindfullness-meditation-app.firebaseapp.com/
  
 ## Contact Me
 
