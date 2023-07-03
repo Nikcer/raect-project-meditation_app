@@ -30,7 +30,7 @@ The app is very simple, consisting of a home screen and a specific page dedicate
 
 ## Demo
 
-https://mindfullness-meditation-app.firebaseapp.com/
+https://64a2a4588cd57a6ba2cb1db5--reactmindfulnessapp.netlify.app/
  
 ## Contact Me
 
