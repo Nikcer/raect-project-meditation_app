@@ -23,7 +23,7 @@ function App() {
           <Route path="/" element={<Navbar/>} >
          
             <Route index element={ <Home /> } />
-            <Route path="/timer" element={<Timer />} />  
+            <Route path="timer" element={<Timer />} />  
             
           </Route>                    
         </Routes>
