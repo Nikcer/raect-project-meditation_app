@@ -36,6 +36,6 @@ https://64a2a4588cd57a6ba2cb1db5--reactmindfulnessapp.netlify.app/
 
 👤 **Nicolò Cerra**
 
-- Github: [@Nikcer](https://github.com/Nikcer)
+- Github: [Github](https://github.com/Nikcer)
 - Linkedin: [@Nikcer](https://www.linkedin.com/in/nicol%C3%B2-cerra-492325231/)
 - If you have any questions, contact me at: nic.cerra@gmail.com
